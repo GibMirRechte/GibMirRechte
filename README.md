@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Max aka. GibMirRechte</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diesesforum&label=Profile%20views&color=0e75b6&style=flat" alt="diesesforum" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=diesesforum&label=Profile%20views&color=0e75b6&style=flat" alt="gibmirrechte" /> </p>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=diesesforum" alt="diesesforum" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=gibmirrechte" alt="gibmirrechte" /></a> </p>
 
 <p align="left"><img src="https://img.shields.io/twitter/follow/gibmirrechte?logo=twitter&style=for-the-badge" alt="gibmirrechte" /></a> </p>
 
