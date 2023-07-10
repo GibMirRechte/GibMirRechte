@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=gibmirrechte" alt="gibmirrechte" /></a> </p>
 
-<p align="left"><img src="https://img.shields.io/twitter/follow/gibmirrechte?logo=twitter&style=for-the-badge" alt="gibmirrechte" /></a> </p>
+<p align="left"><a href="https://twitter.com/gibmirrechte"><img src="https://img.shields.io/twitter/follow/gibmirrechte?logo=twitter&style=for-the-badge" alt="gibmirrechte" /></a> </p>
 
 - 💬 Ask me about **java, javascript and something like this**
 
