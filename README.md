@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/gibmirrechte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/twitter.svg" alt="gibmirrechte" height="30" width="40" /></a>
 <a href="https://instagram.com/gibmirrechte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/instagram.svg" alt="gibmirrechte" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/gibmirrechte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/youtube.svg" alt="gibmirrechte" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@gibmirrechte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/youtube.svg" alt="gibmirrechte" height="30" width="40" /></a>
 <a href="https://discord.gg/r4FqG5E" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/6253936f99716cd30c07055d5d10e9332af37171/src/images/icons/Social/discord.svg" alt="r4FqG5E" height="30" width="40" /></a>
   </p>
 
